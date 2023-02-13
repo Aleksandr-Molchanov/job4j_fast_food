@@ -19,5 +19,4 @@ public interface DishService {
     List<Dish> findAll();
 
     List<Dish> findAllProductFree(Product product);
-
 }
